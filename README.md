@@ -1,2 +1,2 @@
-# C-C-Experiments
-Experiments to learn C/C++
+# C-CPP-Experiments
+Experiments in Code while learning C/C++
